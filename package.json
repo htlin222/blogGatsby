@@ -1,6 +1,7 @@
 {
   "version": "3.0.7",
   "name": "gatsby-starter-lumen",
+  "homepage": "https://github.com/htlin222/blogGatsby",
   "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
   "main": "n/a",
   "scripts": {
@@ -105,7 +106,7 @@
     "eslint-watch": "7.0.0",
     "flow-bin": "^0.133.0",
     "flow-typed": "^3.2.1",
-    "gh-pages": "3.1.0",
+    "gh-pages": "^3.1.0",
     "identity-obj-proxy": "3.0.0",
     "jest": "26.6.3",
     "jest-cli": "26.6.3",
